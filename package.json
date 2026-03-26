@@ -1,9 +1,5 @@
-"scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
-}
-,
-{
+
+{"homepage": ".",
   "name": "invitation",
   "version": "0.1.0",
   "private": true,
