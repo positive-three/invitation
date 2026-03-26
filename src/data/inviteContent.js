@@ -5,7 +5,7 @@ export const invite = {
   },
   music: {
     // public/audio 폴더에 mp3를 넣고 이 경로를 맞춰주세요. 예: public/audio/bgm.mp3 -> '/audio/bgm.mp3'
-    src: '/audio/bgm.mp3',
+    src: './audio/bgm.mp3',
   },
   hero: {
     dateLine: '2026. 09. 12.',
@@ -15,7 +15,7 @@ export const invite = {
   mainPhoto: {
     alt: '메인 사진',
     // 실제 이미지 경로: public 폴더에 두고 '/photo.jpg' 형태로 지정
-    src: '/images/main.jpg',
+    src: './images/main.jpg',
   },
   ceremony: {
     line1: '2026년 9월 12일 토요일 오전 11시 30분',
